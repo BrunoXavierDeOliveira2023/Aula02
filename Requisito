@@ -6,7 +6,7 @@
   <p>Outro oarágrado com <strong>texoto enfatizado</strong> e <em>texto em itálico </em>.</p>
   <p>Podemos<mark>realçar</mark> partes importantes do texto.</p>
   <hr>
-  <img src="image.jpg" alt="imagem de exemplo">
+  <img src="imagem.jpg" alt="imagem de exemplo">
   <a href="https://www.exemplo.com">link para exemplo.com</a>
 
   <table>
