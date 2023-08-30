@@ -7,3 +7,20 @@
   <p>Podemos<mark>realçar</mark> partes importantes do texto.</p>
   <hr>
   <img src="image.jpg" alt="imagem de exemplo">
+  <a href="https://www.exemplo.com">link para exemplo.com</a>
+
+  <table>
+    <tr>
+      <tr>Cabeçalho da Tabela</tr>
+      <tr>Cabeçalho da Tabela</tr>
+    </tr>
+    <tr>
+      <td>Célula da Tabela</td>
+      <td>Célula da Tabela</td>
+    </tr>
+    <tr>
+      <td>Célula da Tabela</td>
+      <td>Célula da Tabela</td>
+    </tr>
+  </table>
+  <div>
