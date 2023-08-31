@@ -1,26 +1,43 @@
-<body>
-  <h1>Analise e Desenvolvimento de Sistemas</h1>
-  <h2>Programação Web</h2>
-  <h3>Bruno Xavier de Olivera</h3>
-  <p>Aula 02 - Criação de Pagina Web</p>
-  <p>Outro oarágrado com <strong>texoto enfatizado</strong> e <em>texto em itálico </em>.</p>
-  <p>Podemos<mark>realçar</mark> partes importantes do texto.</p>
-  <hr>
-  <img src="21592.jpg" alt="imagem de exemplo">
-  <a href="https://www.exemplo.com">link para exemplo.com</a>
-
-  <table>
-    <tr>
-      <tr>Cabeçalho da Tabela</tr>
-      <tr>Cabeçalho da Tabela</tr>
-    </tr>
-    <tr>
-      <td>Célula da Tabela</td>
-      <td>Célula da Tabela</td>
-    </tr>
-    <tr>
-      <td>Célula da Tabela</td>
-      <td>Célula da Tabela</td>
-    </tr>
-  </table>
-  <div>
+<doby>
+    <h1>Analise e Desenvolvimento de Sistemas</h1>
+    <h2>Programação Web</h2>
+    <h3>Bruno Xavier de Oliveira</h3>
+    <p>Este é um paragráfo comum.</p>
+    <p> Outro parágrafo com <strong> texto enfatizado </strong> e <em> texto italico </em> . </p>
+    <p>Podemos <mark>Realçar</mark> partes importantes do texto.</p>
+    <hr>
+    <img scr="imagem.jpg" alt="imagem de exemplo">
+    <a href="E:\Microsoft VS Code\Projeto VS Code"> link para exemplo</a>
+    <table>
+        <tr>
+            <th>Cabeçalho da Tabela</th>
+            <th>Cabeçalho da Tabela</th>
+        </tr>
+        <tr>
+            <td>Célula da Tabela</td>
+            <td>Célula da Tabela</td>
+        </tr>
+        <tr>
+            <td>Célula da Tabela</td>
+            <td>Célula da Tabela</td>
+        </tr>
+    </table>
+    <div>
+        <p>Essa é uma divisão generica que pode contem qualquer conteudo</p>
+        <spam>Está é uma marcação generica para estabilização de um texto em linha</spam>
+    </div>
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" placeholder="Digite seu nome">
+        <br>
+        <label for="mensagem">Mensagem:</label>
+        <textarea id="mensagem" name="mensagem" rows="4" cols="50"></textarea>
+        <br>
+        <button type="submit">Enviar</button>
+    </form>
+    <select>
+        <option value="opcao1">Opção 1</option>
+        <option value="opcao2">Opção 2</option>
+        <option value="opcao3">Opção 3</option>
+    </select>
+</doby>
