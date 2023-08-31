@@ -24,7 +24,7 @@
     </table>
     <div>
         <p>Essa é uma divisão generica que pode contem qualquer conteudo</p>
-        <spam>Está é uma marcação generica para estabilização de um texto em linha</spam>
+        <span>Está é uma marcação generica para estabilização de um texto em linha</span>
     </div>
     <form>
         <label for="nome">Nome:</label>
